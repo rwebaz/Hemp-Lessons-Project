@@ -24,7 +24,7 @@ Here is the original (1) sponsor of Rep. Comer's Federal Hemp bill ( HR 3530 ), 
 
 ```liquid
 {% raw %}
-{"sponsor":[
+{"sponsors":[
   { "lastName" : "Comer", "firstName" : "James", "party" : "GOP", "state" : "KY", "district" : "01", "sponsor" : true, "date" : "07-28-2017" }
 ]}
 {% endraw %}
@@ -32,11 +32,11 @@ Here is the original (1) sponsor of Rep. Comer's Federal Hemp bill ( HR 3530 ), 
 
 ## The Co-Sponsors
 
-Here are the original (15) Co-Sponsors of Rep. Comer's Federal Hemp bill ( HR 3530 ), also in Javascript Object Notation (.json) format.
+Here are the other original (15) Co-Sponsors of Rep. Comer's Federal Hemp bill ( HR 3530 ), also in Javascript Object Notation (.json) format.
 
 ```liquid
 {% raw %}
-{"fed-reps":[
+{"fedreps":[
   { "lastName" : "Young", "firstName" : "Don", "party" : "GOP", "state" : "AK", "district" : "00", "sponsor" : true, "date" : "07-28-2017" },
   { "lastName" : "Polis", "firstName" : "Jared", "party" : "DEM", "state" : "CO", "district" : "02", "sponsor" : true, "date" : "07-28-2017" },
   { "lastName" : "Perlmutter", "firstName" : "Ed", "party" : "DEM", "state" : "CO", "district" : "07", "sponsor" : true, "date" : "07-28-2017" },
