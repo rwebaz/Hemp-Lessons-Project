@@ -1,16 +1,13 @@
 ---
-title: Embroidery Stitch Colors
+title: Stitch Colors
 layout: default
-navigation_weight: 9
+navigation_weight: 8
 ---
-# Embroidery Stitch Colors
+# Stitch Colors
 
-More to come ...
+{{ site.tagline }}
 
-## Table O Contents
-
-- TOC
-{:toc}
+{% include toc-flammarion.md %}
 
 ## Text Colors
 
@@ -50,7 +47,7 @@ text: #DC143C; /* Crimson Red: */
 
 **Note**. All colors are listed #Hex first, Isacord ( if available ) second, and RGB ( if available ) last.
 
-### Greens
+### Greens Two
 
 - background-color: #7F9966; /*Dark Green Lite*/
 
@@ -58,7 +55,7 @@ text: #DC143C; /* Crimson Red: */
 
 - background-color:#C8700B; /* Unknown: */
 
-### Blues
+### Blues Two
 
 - background-color #AFD8CD; /* Luster Sky Blue: Isacord [5050], rgb(175,216,205) */
 
@@ -70,10 +67,18 @@ text: #DC143C; /* Crimson Red: */
 
 - shade-border: #824106; /*Shadow*/
 
-## Subtitle
+## Last Subtitle
 
-More to come ...
+Place the introducing line of text ie.) the 'tagline' here ...
 
-***
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
 
-**Source**: [Zazzle Hempaz Gallery of Fine Products](https://www.zazzle.com/hempaz*){:target="_blank"}
+### External Hemps
+
+- The [Project Hemp Links](https://mminail.github.io/Shell/Hemp-Shell-Links.htm){:title="Click to Visit the Hemp Links page of the Shell Lessons Project at GitHub pages"}{:target="_blank"} page of the Shell Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+- The [Zazzle Hempaz Gallery of Fine Products](https://www.zazzle.com/hempaz*){:title="Click to Visit the Zazzle Hempaz Gallery of Fine Products"}{:target="_blank"}. Published by © 2000 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
