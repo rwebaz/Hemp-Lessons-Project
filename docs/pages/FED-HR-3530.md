@@ -1,20 +1,17 @@
 ---
-title: HR 3530 Hemp
+title: FED HR 3530
 layout: default
-navigation_weight: 9
+navigation_weight: 8
 ---
-# HR 3530 Hemp
+# FED HR 3530
 
-After the addition of several deleterious amendments, our Federal Hemp Act of #2017 has finally been submitted to a House of Representatives subcommittee through the shepherding effort of US Congressman James Comer of Kentucky's 1st Federal district.
+The Federal Hemp Act of #2017 has survived several deleterious motions to quash and has finally been submitted to a House of Representatives subcommittee.
 
-## Table O Contents
-
-- TOC
-{:toc}
-
-***
+{% include toc-flammarion.md %}
 
 ## The Federal Hemp Act of 2017
+
+Through the shepherding effort of US Congressman James Comer of Kentucky's 1st Federal district ...
 
 The Federal Hemp Act of 2017 gives the states full authority to regulate their own hemp production and distillation efforts.
 
@@ -90,7 +87,7 @@ Robert ...
 
 Hello Ya All ...!
 
-Our State Hemp bill in Arizona ( SB 1337 ) got VETOED by our "Pastor" in chief, Doug Douchey after passing both the state senate and the state house with overwhelming flying colors.
+Our State Hemp bill in Arizona ( SB 1337 ) got VETOED by our "Pastor" in chief, Doug Douchie after passing both the state senate and the state house with overwhelming flying colors.
 
 Now, Rep. Comer of Kentucky has entered a hemp bill on the floor of the Federal House of Representatives under **HR 3530**.
 
@@ -100,6 +97,22 @@ Contact your Fed Rep today and encourage them to say **YES** on **HB 3530**, The
 
 Thx, Robert.
 
-***
+## Last Subtitle
 
-**Source**: [HR 3530: The Federal Hemp Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/3530/cosponsors){:target="_blank"}
+Place the introducing line of text ie.) the 'tagline' here ...
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
+
+{% include brackets-ide.md %}
+
+{% include sources-and-uses.md %}
+
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Shell/Source-Shell-Links.htm){:title="Click to Visit the Source Links page of the Shell Lessons Project at GitHub pages"}{:target="_blank"} page of the Shell Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+- The [The Federal Hemp Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/3530/cosponsors){:title="Click to Visit the Source Links page of the Shell Lessons Project at GitHub pages"}{:target="_blank"} aka FED HR 3530. Published by © 2000 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
