@@ -16,8 +16,6 @@ categories: template
 
 The #MMINAIL Wheel Chair Surfer logo badge ® and script are available for machine stitching upon any embroiderable product at the Zazzle-Hempaz Gallery of Fine Products.
 
-{% include toc-flammarion.md %}
-
 ## USPTO
 
 The #MMINAIL Wheel Chair Surfer logo badge ® and script are a USA registered service and trade mark of the Medical Marijuana Initiative of North America - International Limited.
