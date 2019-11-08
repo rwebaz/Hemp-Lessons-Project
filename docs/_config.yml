@@ -86,4 +86,5 @@ plugins_dir:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - Gemfile.old
+  - Gemfile-1.old
+  - Gemfile-2.old
