@@ -1,20 +1,24 @@
 ---
 title: Stitch Colors
 layout: default
-excerpt: Place the introducing line of text ie.) the 'lead' here ...
-version: Page Template md Dtd 02-16-18
+excerpt: All colors are listed Hex first, Isacord second, and Red-Green-Blue, or RGB last ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Hemp-Lessons-Project
+ver_date: 11-26-19
 navigation_weight: 8
-categories: template
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
 
 ## Text Colors
 
-**Note**. All colors are listed #Hex first, Isacord ( if available ) second, and RGB ( if available ) last.
+> **Hint**. {{ page.hint }}
+
+More to come ...
+
+### Reds
+
+#### Crimson Red
 
 ```liquid
 {% raw %}
@@ -22,11 +26,13 @@ text: #DC143C; /* Crimson Red: */
 {% endraw %}
 ```
 
-### Reds
+#### Tulip Red
 
 - text: #CC3333; /* Tulip Red: Isacord [1906] */
 
-- text: #BF0A21; /* Old Red: rgb(191,10,33) */ 
+#### Old Red
+
+- text: #BF0A21; /* Old Red: rgb(191,10,33) */
 
 ### Greens
 
@@ -70,28 +76,18 @@ text: #DC143C; /* Crimson Red: */
 
 - shade-border: #824106; /*Shadow*/
 
-## Import Code
+## Last Subtitle
 
 More to come ...
 
-## Last Subtitle
+***
 
-**Note**. The above synopsis was derived from an article written by Zazzle-Hempaz [[2](#ZAZZLEHEMPAZ){:.red}].
+### Product Links
 
-### Raw Code Block
-
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
-
-{% include sources-and-uses.md %}
+**Note**. Items offered for sale at the Zazzle-Hempaz Gallery of Fine Produts include Caps and Jackets emblazzoned with the company USPTO registered embroidered Logo badge [[1](#ZAZZLEHEMPAZ){:.red}].
 
 1. {:#ZAZZLEHEMPAZ}The [Zazzle Hempaz Gallery](https://www.zazzle.com/hempaz*){:title="Click to Visit the Zazzle Hempaz Gallery of Fine Products"}{:target="_blank"} of Fine Products.
 
-### External Sources
+***
 
-- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/Hemp/Source-Hemp-Links.htm){:title='Click to Visit the Source Links page of the Hemp Lessons Project at Concepts Library'}{:target='_blank'} page of the Hemp Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
-
-**Note**. This page crafted with {{ page.version }}.
+{% include patreon-link.md %}
